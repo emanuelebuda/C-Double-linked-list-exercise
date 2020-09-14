@@ -77,8 +77,7 @@ int main() {
     insert(head->right->right->right, newNode(6));
     // 1 <-> 7 <-> 1 <-> 9 <-> 6 <-> NULL 
     fill(&head, newNode(1));
-
-
+    // 1 <-> 1 <-> 7 <-> 1 <-> 9 <-> 6 <-> NULL 
   
     printf("Output: \n"); 
     print(head); 
