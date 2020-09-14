@@ -1,7 +1,9 @@
 # C-Double-linked-list-exercise
 
-Compile using:
+Compile using: 
+<br>
 ~ gcc -Wall exercise.c -o exercise
-
-and launch it with:
+<br> <br>
+and launch it with: 
+<br>
  ~ ./exercise
